@@ -1,7 +1,7 @@
 Atom
 ====
 
-This repo contains the code that is responsible for `atom.kennethreitz.com <http;//atom.kennethreitz.com>`_, powered by Elephant, Blackbox, Flask, and Heroku.
+This repo contains the code that is responsible for `atom.kennethreitz.com <http://atom.kennethreitz.com>`_, powered by Elephant, Blackbox, Flask, and Heroku.
 
 All content from the following sites conanically exists here:
 
